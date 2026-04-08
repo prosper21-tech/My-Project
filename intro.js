@@ -3,3 +3,4 @@ console.log("Age: 20");
 console.log("Favorite Programming Language: JavaScript");
 let city = "Tema";
 console.log("I stay at" + " " + city);
+console.log("I'm really enjoying this")
